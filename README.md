@@ -7,11 +7,12 @@
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Th3VoidOfficial)
 
 ### About me
-- 🦇 I'm a blockchain, game, software qa tester & fullstack developer.
-- 🐺 I'm a teacher & technical instructor at [@ifpi](https://www.ifpi.edu.br/).
+- 🦇 Eu sou programador backend PHP, Ruby, React Native e Rust
+- 🐺 Desenvolvedor open-source e empacotador RPM
+- 🐺 Formado em Técnico em desenvolvimento de software IFPI e em projetista de  redes de computadores (jovem aprendiz no SENAI)
 ---
-- [Website](https://th3void.github.io/) 💻 - Working on it.
-- [Courses](https://github.com/th3void/courses) 👨🏼‍🏫 - It's are educational and technical courses on many technologies, such as Solidity, C#, Java, Spring, Typescript, Ionic, Flutter, Git and more
+- [Website](https://kodirian.github.io/) 💻 - Working on it.
+- [Courses](https://kodirian.github.io/learn.html) 👨🏼‍🏫 - It's are educational and technical courses on many technologies, such as Solidity, C#, Java, Spring, Typescript, Ionic, Flutter, Git and more
 - [Projects](https://github.com/th3void/projects) 🚀- A lot of stuffs!!
 
 ## Github Stats
