@@ -1,4 +1,4 @@
-## 👋 Hi there I'm Gabriel! Welcome to my GitHub! :octocat:
+## 👋 Hi there I'm Cassandra! Welcome to my GitHub! :octocat:
 
 ### 
 
@@ -7,9 +7,11 @@
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Th3VoidOfficial)
 
 ### About me
-- 🦇 Eu sou programador backend PHP, Ruby, React Native e Rust
-- 🐺 Desenvolvedor open-source e empacotador RPM
-- 🐺 Formado em Técnico em desenvolvimento de software IFPI e em projetista de  redes de computadores (jovem aprendiz no SENAI)
+- 🦇 Programadora FullStack Django
+- ⚡ Programadora cripto para rede solana
+- 🐺 Desenvolvedora open-source para sistemas Linux
+- 🐺 Formada em Técnico em desenvolvimento de software IFPI e em projetista de  redes de computadores (jovem aprendiz no SENAI) e formada FullStack developer dentro da PlutusFI (UwU) 
+- 😄 Pronomes: Ela/She/fighter helicopter 🚁
 ---
 - [Website](https://kodirian.github.io/) 💻 - Working on it.
 - [Courses](https://kodirian.github.io/learn.html) 👨🏼‍🏫 - It's are educational and technical courses on many technologies, such as Solidity, C#, Java, Spring, Typescript, Ionic, Flutter, Git and more
