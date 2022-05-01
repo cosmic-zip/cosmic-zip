@@ -13,9 +13,9 @@
 - 🐺 Formada em Técnico em desenvolvimento de software IFPI e em projetista de  redes de computadores (jovem aprendiz no SENAI) e formada FullStack developer dentro da PlutusFI (UwU) 
 - 😄 Pronomes: Ela/She/fighter helicopter 🚁
 ---
-- [Website](https://kodirian.github.io/) 💻 - Working on it.
-- [Courses](https://kodirian.github.io/learn.html) 👨🏼‍🏫 - It's are educational and technical courses on many technologies, such as Solidity, C#, Java, Spring, Typescript, Ionic, Flutter, Git and more
-- [Projects](https://github.com/th3void/projects) 🚀- A lot of stuffs!!
+- [Website](https://kodirian.github.io/) 💻 - Minha empresa.
+- [Courses](https://kodirian.github.io/learn.html) 👨🏼‍🏫 - Cursos sobre informática básica windows e linux 
+- [Projects](https://github.com/th3void/projects) 🚀- Um monte de coisa legal!!
 
 ## Github Stats
 
@@ -23,19 +23,3 @@
    <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=th3void&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true&hide=contribs&hide_border=false"/>
    <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=th3void&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
 </span>
-
-
-<!--
-**th3void/th3void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
