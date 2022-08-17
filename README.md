@@ -11,7 +11,7 @@
 - ⚡ Programadora cripto para rede solana
 - 🐺 Desenvolvedora open-source para sistemas Linux
 - 🐺 Formada em Técnico em desenvolvimento de software IFPI e em projetista de  redes de computadores (jovem aprendiz no SENAI) e formada FullStack developer dentro da PlutusFI (UwU) 
-- 😄 Pronomes: Ela/She/fighter helicopter 🚁
+- 😄 Pronomes: Ela/She  🏳️‍⚧️
 ---
 - [Website](https://kodirian.github.io/) 💻 - Minha empresa.
 - [Courses](https://kodirian.github.io/learn.html) 👨🏼‍🏫 - Cursos sobre informática básica windows e linux 
