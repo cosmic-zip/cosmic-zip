@@ -1,3 +1,6 @@
+![alt text](./welcome/SKILLS.png)
+
+
 ## 👋 Hi there I'm Cassandra! Welcome to my GitHub! :octocat:
 
 ### 
