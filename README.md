@@ -23,6 +23,6 @@
 ## Github Stats
 
 <span>
-   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=th3void&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true&hide=contribs&hide_border=false"/>
-   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=th3void&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
+   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=th3maid&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true&hide=contribs&hide_border=false"/>
+   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=th3maid&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
 </span>
