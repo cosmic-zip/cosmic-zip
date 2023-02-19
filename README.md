@@ -5,20 +5,17 @@
 
 ### 
 
-[![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/th3void)](https://github.com/th3void)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LnvVoid) 
-[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Th3VoidOfficial)
+[![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/th3void)](https://github.com/th3maid)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CosmicWolf42) 
 
 ### About me
-- 🦇 Programadora FullStack Python
-- ⚡ Programadora cripto para rede solana
-- 🐺 Desenvolvedora open-source para sistemas Linux
-- 🐺 Formada em Técnico em desenvolvimento de software IFPI
-- 😄 Pronomes: Ela/She 🏳️‍⚧️
----
-- [Website](https://kodirian.github.io/) 💻 - Minha empresa.
-- [Courses](https://kodirian.github.io/learn.html) 👨🏼‍🏫 - Cursos sobre informática básica windows e linux 
-- [Projects](https://github.com/th3void/projects) 🚀- Um monte de coisa legal!!
+- ₿  Cryptocurrency developer on solana network
+- 💻 Full stack software developer python and java-script
+- ❤️ Rust developer for linux and backend systems 
+- 🕵️ Bug bounty hunter 
+- 💳 Cripto payment systems experience
+- 💸 I'm accept payment in USDT and BNB
+- [Projects](https://github.com/th3maid/projects)
 
 ## Github Stats
 
