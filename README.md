@@ -1,7 +1,7 @@
 
 
 
-## 👋 Hi there I'm Cassandra! Welcome to my GitHub! :octocat:
+## 👋 Hi there, Welcome to my GitHub! :octocat:
 
 ### 
 
