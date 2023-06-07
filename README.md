@@ -1,3 +1,4 @@
+![alt text](./welcome/SKILLS.png)
 
 
 
@@ -5,7 +6,7 @@
 
 ### 
 
-[![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/th3void)](https://github.com/th3maid)
+[![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/th3maid)](https://github.com/th3maid)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CosmicWolf42) 
 
 ### About me
