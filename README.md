@@ -25,4 +25,8 @@
    <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=th3maid&hide=html,python&layout=compact&langs_count=8&theme=dracula"/>
 </span>
 
-![Maid stats](https://github-contributor-stats.vercel.app/api?username=th3maid)
+<span>
+   <center>
+      ![Maid stats](https://github-contributor-stats.vercel.app/api?username=th3maid)
+   </center>
+</span>
