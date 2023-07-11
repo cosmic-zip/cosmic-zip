@@ -49,4 +49,4 @@
 <img align="center" alt="HTML 5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryherton&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3maid&theme=tokyonight)
