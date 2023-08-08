@@ -1,7 +1,3 @@
-![alt text](./welcome/SKILLS.png)
-
-
-
 ## 👋 Hi there, Welcome to my GitHub! :octocat:
 
 ### 
