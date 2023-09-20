@@ -17,7 +17,7 @@
 ## Github Stats
 <span>
    <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=th3maid&theme=neon&show_icons=true"/>
-   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=th3maid&hide=html,python&layout=compact&langs_count=8&theme=neon"/>
+   <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3maid&layout=compact"/>
 </span>
 
 ## 🏆 GitHub Trophies
