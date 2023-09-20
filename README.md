@@ -17,7 +17,7 @@
 ## Github Stats
 <span>
    <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=th3maid&theme=neon&show_icons=true"/>
-   <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3maid&layout=compact"/>
+   <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3maid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </span>
 
 ## 🏆 GitHub Trophies
@@ -29,6 +29,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=th3maid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=th3maid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=th3maid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
