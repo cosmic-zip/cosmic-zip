@@ -6,17 +6,17 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CosmicWolf42) 
 
 ### About me
-❤️ Programming Languages: Rust, R, Python, JavaScript
-💻 Web Technologies: HTML5, CSS3, Svelte, React Native
-🚀 Frameworks: Django, FastAPI
-💾 Databases: PostgreSQL
-🪙 Blockchain: Solana smart contracts
-🔮 Business intelligence (BI) development
-⛓ Cybersecurity best practices
-⛑ Problem-solving and debugging
-💪 Team collaboration and communication
-💸 I'm accept payment in USDT and BNB
-[Projects](https://github.com/th3maid/projects)
+- ❤️ Programming Languages: Rust, R, Python, JavaScript
+- 💻 Web Technologies: HTML5, CSS3, Svelte, React Native
+- 🚀 Frameworks: Django, FastAPI
+- 💾 Databases: PostgreSQL
+- 🪙 Blockchain: Solana smart contracts
+- 🔮 Business intelligence (BI) development
+- ⛓ Cybersecurity best practices
+- ⛑ Problem-solving and debugging
+- 💪 Team collaboration and communication
+- 💸 I'm accept payment in USDT and BNB
+- [Projects](https://github.com/th3maid/projects)
 
 ## Github Stats
 <span>
