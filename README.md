@@ -32,10 +32,10 @@
 
 # 📊 GitHub Stats:
 <center>
-   ![](https://github-readme-stats.vercel.app/api?username=th3maid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=th3maid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </center>
 <center>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=th3maid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=th3maid&theme=dark&hide_border=false)<br/>
 </center>
 
 
