@@ -27,14 +27,12 @@
 
 <div align="center">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=th3Maid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3Maid&layout=compact&langs_count=7&theme=radical"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3Maid&layout=compact&langs_count=6&theme=radical"/>
   <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=th3Maid&amp;theme=radical"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
-
-
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=th3maid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
