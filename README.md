@@ -17,15 +17,6 @@
 - 💸 I'm accept payment in USDT and BNB
 - [Projects](https://github.com/th3maid/projects)
 
-## Github Stats
-<span>
-   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=th3maid&theme=neon&show_icons=true"/>
-   <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3maid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</span>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=th3maid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 💻 Tech Stack:
 
 
@@ -35,9 +26,15 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=radical"/>
-  <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=BStyvison&amp;theme=radical"/>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=th3Maid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3Maid&layout=compact&langs_count=7&theme=radical"/>
+  <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=th3Maid&amp;theme=radical"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=th3maid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
