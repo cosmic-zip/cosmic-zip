@@ -5,6 +5,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CosmicWolf42) 
 
 ### About me
+- 🌈 [Portifolio](http://th3maid.github.io)
 - ❤️ Programming Languages: Rust, R, Python, JavaScript
 - 💻 Web Technologies: HTML5, CSS3, Svelte, React Native
 - 🚀 Frameworks: Django, FastAPI
