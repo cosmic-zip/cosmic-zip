@@ -6,7 +6,7 @@ MICROSOFT FIXED THE MOST COOL BUG :(
 \ce{$&#x5C;unicode[goombafont; color: purple; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; color:purple; background: url("https://raw.githubusercontent.com/prism-zip/prism-zip/master/hackercat.gif");]{x0000}$}
 ```
 
-![nya](images/output.gif)
+![nya](output.gif)
 
 
 [![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/prism-zip)](https://github.com/prism-zip)
