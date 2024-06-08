@@ -1,6 +1,11 @@
 ![banner](images/lineBar.png)
 
 
+```math
+\ce{$&#x5C;unicode[goombafont; color:purple; background-image: url("https://raw.githubusercontent.com/prism-zip/prism-zip/master/hackercat.gif");]{x0000}$}
+```
+
+
 [![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/prism-zip)](https://github.com/prism-zip)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CosmicWolf42) 
 
