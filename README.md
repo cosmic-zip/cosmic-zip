@@ -1,8 +1,10 @@
 ![banner](images/lineBar.png)
 
+[Python developer Tech lover Hack th3 planet](https://github.com/prism-zip/prism-zip/assets/36008397/72cbc0e4-f4f4-4c93-aa63-7c4da2bb0189)
 
 MICROSOFT FIXED THE MOST COOL BUG :(
-```math
+```math!
+
 \ce{$&#x5C;unicode[goombafont; color: purple; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; color:purple; background: url("https://raw.githubusercontent.com/prism-zip/prism-zip/master/hackercat.gif");]{x0000}$}
 ```
 
