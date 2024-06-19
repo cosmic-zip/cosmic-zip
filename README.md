@@ -1,6 +1,6 @@
 ![banner](images/lineBar.png)
 
-
+#  If came from my CV, yes that me that's me UwU
 
 MICROSOFT FIXED THE MOST COOL BUG :(
 ```math!
