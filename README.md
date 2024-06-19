@@ -1,6 +1,6 @@
 ![banner](images/lineBar.png)
 
-#  If came from my CV, yes that me that's me UwU
+# If it came from my CV, yes, that's me. That's me. UwU
 
 MICROSOFT FIXED THE MOST COOL BUG :(
 ```math!
