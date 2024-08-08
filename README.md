@@ -1,7 +1,6 @@
 ![banner](images/lineBar.png)
 
 [![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/cosmic-zip)](https://github.com/cosmic-zip)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CosmicWolf42) 
 
 ### About me
 - 🌈 [Portifolio](http://cosmic-zip.github.io)
