@@ -1,6 +1,6 @@
 ![banner](images/lineBar.png)
 
-[![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/cosmic-zip)](https://github.com/cosmic-zip)
+I'm @cosmic_zip@mastodon.social on Mastodon! Come follow me at https://mastodon.social/@cosmic_zip
 
 ### About me
 - 🌈 [Portifolio](http://cosmic-zip.github.io)
