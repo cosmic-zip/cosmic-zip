@@ -4,6 +4,8 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
+
+
 ### About me
 - 🌈 [Portifolio](http://cosmic-zip.github.io)
 - ❤️ Programming Languages: Rust, R, Python, JavaScript
@@ -22,6 +24,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/cosmic-zip/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cosmic-zip/cosmic-zip/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -90,10 +98,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/cosmic-zip/cosmic-zip/output/snake.svg" alt="Snake animation" />
 
 ###
 
