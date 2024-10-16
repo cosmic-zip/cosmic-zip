@@ -1,7 +1,5 @@
 ![banner](images/lineBar.png)
 
-I'm @cosmic_zip@mastodon.social on Mastodon! Come follow me at https://mastodon.social/@cosmic_zip
-
 ### About me
 - 🌈 [Portifolio](http://cosmic-zip.github.io)
 - ❤️ Programming Languages: Rust, R, Python, JavaScript
