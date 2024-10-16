@@ -1,7 +1,7 @@
 ![banner](images/lineBar.png)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cosmic-zip/count.svg?"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ### About me
@@ -17,11 +17,11 @@
 - 💪 Team collaboration and communication
 - 💸 I'm accept payment in USDT and BNB
 - [Projects](https://github.com/cosmic-zip/projects)
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cosmic-zip/count.svg?"  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
