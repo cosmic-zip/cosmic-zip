@@ -1,6 +1,8 @@
 ![banner](images/lineBar.png)
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmic-zip&theme=blueberry) 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cosmic-zip/count.svg?"  />
+</div>
 
 ### About me
 - 🌈 [Portifolio](http://cosmic-zip.github.io)
@@ -17,12 +19,6 @@
 - [Projects](https://github.com/cosmic-zip/projects)
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cosmic-zip/count.svg?"  />
 </div>
 
 ###
