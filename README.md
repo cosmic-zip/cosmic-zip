@@ -1,7 +1,7 @@
 ![banner](images/lineBar.png)
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="hackercat.gif"  />
 </div>
 
 
