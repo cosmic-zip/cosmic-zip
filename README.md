@@ -18,12 +18,6 @@
 - ⛑ Problem-solving and debugging
 - 💪 Team collaboration and communication
 - 💸 I'm accept payment in USDT and BNB
-- [Projects](https://github.com/cosmic-zip/projects)
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cosmic-zip/count.svg?"  />
-</div>
 
 ###
 
