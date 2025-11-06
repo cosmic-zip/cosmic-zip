@@ -1,8 +1,5 @@
 ![ship](bg.jpg)
 
-
-![banner](images/lineBar.png)
-
 **status:** running
 
 **I/O:** running
