@@ -1,9 +1,5 @@
 ![banner](images/lineBar.png)
-
-
-<div align="center">
-  <img height="200" src="bg.jpg"  />
-</div>
+![ship](bg.jpg)
 
 # Once in time we travel through the net
 ---
