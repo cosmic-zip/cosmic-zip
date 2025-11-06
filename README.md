@@ -1,7 +1,7 @@
 ![banner](images/lineBar.png)
 
 <div align="center">
-  <img height="200" src="bg.png"  />
+  <img height="200" src="bg.jpg"  />
 </div>
 
 # Once in time we travel through the net
