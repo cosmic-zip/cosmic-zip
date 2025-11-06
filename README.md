@@ -1,10 +1,10 @@
-![banner](images/lineBar.png)
 ![ship](bg.jpg)
 
-# Once in time we travel through the net
----
+
+![banner](images/lineBar.png)
 
 <div align="center">
+  <h1>Once in time we travel through the net</h1>
   <img height="200" src="output.gif"  />
 </div>
 
