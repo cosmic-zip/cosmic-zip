@@ -1,2 +1,2 @@
-![ship](bg2.png)
 ![ship](bg.jpg)
+![ship](bg2.png)
