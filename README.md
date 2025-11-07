@@ -1,12 +1,5 @@
 ![ship](bg.jpg)
-
-**status:** running
-
-**I/O:** running
-
-**info:** Hey there, I'm cosmic a top tier netrunner. long term linux lover, software engineer, hacker, solana developer, trade systems, kawaii cosplayer UwU. For me, no place is batter than 127.0.0.1 with cyberdecks and warm coffee. I'm  also a daemon developer! So I have some of then running around: nettraveler-ex black hat netrunner magic, this is the new version of it, stable releases every 3 months.
-
-**stack:** PGPLSQL, Python, Lua, Rust
+![ship](bg2.jpg)
 
 **Portifolio:** [Portifolio](http://cosmic-zip.github.io)
 
