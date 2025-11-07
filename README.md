@@ -1,5 +1,5 @@
 ![ship](bg.jpg)
-![ship](bg2.jpg)
+![ship](bg2.png)
 
 **Portifolio:** [Portifolio](http://cosmic-zip.github.io)
 
